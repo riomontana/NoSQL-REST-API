@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_PW": "malmouniversitet",
+    "PORT": 3000,
+    "JWT_KEY": "secret"
+  }
+}

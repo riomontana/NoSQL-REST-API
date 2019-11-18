@@ -1,0 +1,14 @@
+Token for location manager:
+{
+	"email": "location.manager@bc.com",
+	"password": "locationmanager"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImxvY2F0aW9uLm1hbmFnZXJAYmMuY29tIiwidXNlcklkIjoiNWNmM2JjMDFhODA0NTIzOWY0YTY1MDMzIiwiaWF0IjoxNTU5NDc3MjYyLCJleHAiOjE1NjAwODIwNjJ9.p8wN73Dq0p01vywunu-lBep1d5IQFltxbXDy60M80YI
+
+----------------------------------
+Token for sales manager:
+{
+	"email": "manager@bc.com",
+	"password": "manager"
+}
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hbmFnZXJAYmMuY29tIiwidXNlcklkIjoiNWNmM2E3OTRhMTIzYzYxMDE4YTIxODFkIiwiaWF0IjoxNTU5NDc3Nzg3LCJleHAiOjE1NjAwODI1ODd9.BOxt30Frzlmy_0qoqASUuMnAcRazzZDT3ZipwTiTsI0

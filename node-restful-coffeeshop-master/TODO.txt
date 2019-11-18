@@ -1,0 +1,10 @@
+1.  Put och Delete på employee så skickas employeeId med som en parameter. 
+    Med den ska employee med den id hämtas ut och om employee.currentRole = "boss" så ok annars error.
+    {
+    "employerId": 2,
+    "employee": {
+             "name": "Linus Forsberg",
+             "ssn": "00000000-0000",
+             "address": ""
+
+2.  

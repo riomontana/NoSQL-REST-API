@@ -1,0 +1,24 @@
+{
+  "name": "restful-coffeeshop",
+  "version": "1.0.0",
+  "git repository": "Soffylicious/",
+  "description": "A Node.js RESTful API Project with MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofia Larsson",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.11",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
